@@ -1,5 +1,6 @@
-该分支主要存放的是个人的MachineLearning 以及DeepLearning代码以及数据
+This branch mainly stores personal MachineLearning and DeepLearning code and data
 
-后续将添加 Caffe model.
+Caffe model will be added later.
 
-更多机器学习深度学习博客请关注CSDN博客：[LiuLongpo](http://blog.csdn.net/llp1992)
+For more machine learning deep learning blogs, please follow the CSDN blog: [LiuLongpo] (http://blog.csdn.net/llp1992)
+
