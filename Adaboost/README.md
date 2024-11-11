@@ -1,3 +1,4 @@
-Adaboost 算法实现。
 
-更多机器学习深度学习博客请关注CSDN博客：[LiuLongpo](http://blog.csdn.net/llp1992)
+Adaboost algorithm implementation.
+
+For more machine learning and deep learning blogs, please follow the CSDN blog：[LiuLongpo](http://blog.csdn.net/llp1992)
